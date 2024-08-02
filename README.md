@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a Student, Interested in Learning Python and Machine Learning  
 
 <!--
 **Gururaghavendrapaluri/Gururaghavendrapaluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
